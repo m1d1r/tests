@@ -40,7 +40,7 @@ git push
 6) README
 В `README.md` добавьте/замените строку:
 
- `STUDENT_TOKEN: TOKEN-m1d1r`
+STUDENT_TOKEN: TOKEN-m1d1r
 
 и закоммитьте:
 
